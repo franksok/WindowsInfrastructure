@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore all hidden files
+.*
+
+# Exceptions to hidden files
+!.gitignore
